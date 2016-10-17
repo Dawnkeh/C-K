@@ -1,2 +1,1 @@
-# Computer-Killer
-USE WITH CAUTION
+# Use with caution
